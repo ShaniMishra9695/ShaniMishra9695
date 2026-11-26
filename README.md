@@ -19,13 +19,52 @@
 
 ## Hello, I'm Shani 👋
 
-I’m a software developer who enjoys turning ideas into useful digital experiences. My projects explore web applications, cloud technologies, healthcare tools, and solutions with a positive community impact.
+I’m a Junior Software Engineer with hands-on experience building and deploying **web applications, mobile applications, backend services, and cloud infrastructure**.
 
-I like learning through hands-on work: understanding a problem, building a solution, and improving it with feedback. I’m currently growing my skills across **web development and cloud-based projects**.
+My experience spans React, React Native, Python, Django, REST APIs, PostgreSQL, MongoDB, AWS, and production deployment. I enjoy building complete products—from the database and backend to responsive interfaces and Play Store or App Store releases.
 
-> **What I’m looking for:** opportunities to learn, contribute, and collaborate on thoughtful software projects.
+- 📱 React Native app development and mobile deployment
+- 🌐 Responsive web development with React and Django
+- ☁️ AWS infrastructure and cloud deployment
+- ⚙️ REST API development and backend integration
+- 🗄️ PostgreSQL and MongoDB database design
+- 🚀 CI/CD, server configuration, Docker, and production operations
+- 🏗️ Building and improving real-estate, CRM, calling, and telecaller platforms
 
-## Featured projects
+---
+
+## 💼 Professional experience
+
+### Gharwale.com
+
+**Junior Software Engineer & Software Team Lead**  
+**July 2025 – Present**
+
+- Develop and maintain React.js and React Native applications.
+- Lead frontend and mobile delivery while maintaining responsive, optimized interfaces.
+- Design and integrate Python and Django REST backend services.
+- Build and maintain PostgreSQL and MongoDB data models.
+- Integrate REST APIs and third-party services.
+- Host frontend applications on AWS S3.
+- Deploy backend services and production environments.
+- Support Android Play Store and iOS App Store release processes.
+- Coordinate frontend, backend, UI/UX, and testing teams.
+- Lead reviews, testing, deployments, production fixes, and maintenance.
+- Translate product requirements into technical solutions.
+
+### QILO Digital Services
+
+**Junior Software Engineer Intern**  
+**January 2025 – June 2025**
+
+- Worked on web development and Shopify-based enhancements.
+- Built themes and improved Liquid-template implementations.
+- Implemented responsive UI changes and reusable components.
+- Improved user interfaces and application functionality.
+- Used Git and CI/CD workflows for development and deployment.
+- Integrated analytics and tested dynamic content.
+
+---
 
 ### 🌱 [Petari — Food Donation Management System](https://github.com/ShaniMishra9695/Petari)
 
