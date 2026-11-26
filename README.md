@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" />
   </a>
   <!-- Add your LinkedIn or portfolio URL when ready -->
-  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a> -->
-  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a> -->
+  <a href="https://www.linkedin.com/in/shani-mishra-pandit-ji-28838b25a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a> 
+  <a href="mailto:shanimishra284@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a> 
 </p>
 
 </div>
@@ -64,6 +64,14 @@ My experience spans React, React Native, Python, Django, REST APIs, PostgreSQL, 
 - Used Git and CI/CD workflows for development and deployment.
 - Integrated analytics and tested dynamic content.
 
+### Cloud Counselage
+**React Native Developer Intern**  
+**June 2024 – Jan 2025**
+
+- Implemented authentication and profile creation
+- Added user authentication, posts, realtime updates, cloud storage, and database management
+- Gained hands-on experience with Firebase authentication and cloud infrastructure
+
 ---
 
 ## 🚀 Featured app projects
@@ -109,19 +117,15 @@ An advanced CRM and tele-calling platform for companies managing large customer 
 - Implemented troubleshooting, maintenance, release updates, and database backup processes
 - Built a scalable platform that supports reporting and operational management
 
-### ☁️ React Cloud Counselor — DigitalOcean
-
-A cloud counselor platform that combines LinkedIn-style social features with cloud infrastructure deployments.
+### ☁️ LinkedIn Clone
+At cloud counselage created LinkedIn clone that combines LinkedIn-style social features with cloud infrastructure deployments.
 
 - Developed a LinkedIn-like application with authentication and profile creation
 - Implemented authentication, profile management, posts, real-time interactions, and sharing
 - Developed Firebase database management and cloud storage features
-- Independently deployed the application on a DigitalOcean Droplet
-- Configured Django backend, PostgreSQL, Dokku, Docker, and Ubuntu server environments
 - Managed domains, environment variables, databases, storage, and deployment workflows
 - Used Git, CI/CD, and production deployment practices
-- Configured Docker containers and server operations
-
+- 
 ### 🔗 [LinkedIn Clone](https://github.com/ShaniMishra9695/LinkdIn-clone)
 
 A social networking application built with React.js and Firebase.
