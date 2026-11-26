@@ -134,35 +134,51 @@ A social networking application built with React.js and Firebase.
 
 ## 🌐 Web development projects
 
-### 🌱 [Petari — Food Donation Management System](https://github.com/ShaniMishra9695/Petari)
+A selection of website and landing-page projects for real-estate, residential, construction, and digital brands.
 
-A web application focused on redistributing surplus food and supporting hunger-free initiatives.
+### 🏡 URS-VILLA
 
-**Tech:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express · MongoDB · EJS · OAuth 2.0
+Website and landing-page project.
 
-- Designed a platform for managing food-donation and redistribution workflows
-- Built interfaces for users and administrators
-- Documented setup, contribution, code review, testing, and community processes
-- Participated through GirlScript Summer of Code 2024
+### 🏙️ Sugandhi-Square
 
-### 🚜 [0xAgriChain](https://github.com/ShaniMishra9695/Building-Trust-and-Transparency-in-the-Agri-Value-Chain)
+Website and landing-page project.
 
-A blockchain project exploring transparency and traceability in agricultural supply chains.
+### 🏠 Happy-Homes
 
-- Proposed shared-ledger transaction tracking
-- Explored smart-contract use cases
-- Studied origin tracing, fair pricing, and produce tracking
-- Documented BlockApps STRATO architecture and deployment
+Website and landing-page project.
 
-[![Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/VWS_scOZbD4)
+### 🏢 Swastik_Residency
+
+Website and landing-page project.
+
+### 🏗️ Mangal Murti Construction
+
+Construction company website project.
+
+### 🏙️ Abhinandan_Lodha
+
+Website and landing-page project.
+
+### 🌆 Linkbay Adani
+
+Website and landing-page project.
+
+### 🏡 Gharwale Website
+
+Website project for Gharwale.com.
+
+### 🌐 Truespace Website
+
+Website project for Truespace.
+
+### 💻 Digital Bombay Website
+
+Website project for Digital Bombay.
 
 ### 🏥 [Healthcare Dashboard](https://github.com/ShaniMishra9695/healthcare-dashboard)
 
 A React-based healthcare dashboard project.
-
-### ☁️ [AWS Video App](https://github.com/ShaniMishra9695/AWS_Video_App)
-
-A video application project exploring cloud infrastructure and application deployment.
 
 ---
 
