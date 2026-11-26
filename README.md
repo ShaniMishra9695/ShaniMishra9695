@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:7c3aed&height=190&section=header&text=Shani%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20App%20Developer%20%7C%20Web%20Developer%20%7C%20AWS%20%26%20Cloud&descAlignY=60&descSize=15" width="100%" alt="Shani Mishra profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:7c3aed&height=190&section=header&text=Shani%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20App%20Developer%20%7C%20Web%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descSize=15" width="100%" alt="Shani Mishra profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer;React+%7C+React+Native+%7C+Django+%7C+AWS;Building+Web+and+Mobile+Applications;Deploying+Production-Ready+Cloud+Solutions" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer;React+%7C+React+Native+%7C+Python+%7C+Django;Building+Web+and+Mobile+Applications;AWS+%7C+DigitalOcean+%7C+Production+Deployment" alt="Animated introduction" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/ShaniMishra9695)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanimishra284@gmail.com)
-
-📍 Mumbai, Maharashtra, India · 📞 +91-9695366189
 
 </div>
 
@@ -16,219 +14,163 @@
 
 ## 👋 About me
 
-I’m a Junior Software Engineer with hands-on experience building and deploying **web applications, mobile applications, backend services, and cloud infrastructure**.
+I’m a **Software Engineer** with hands-on experience building and deploying web applications, mobile apps, backend services, and cloud-based systems.
 
-My experience spans React, React Native, Python, Django, REST APIs, PostgreSQL, MongoDB, AWS, and production deployment. I enjoy building complete products—from the database and backend to responsive interfaces and Play Store or App Store releases.
+I work across the product lifecycle—from frontend and mobile development to REST APIs, databases, server configuration, cloud storage, CI/CD, and production deployment. I’ve also led a cross-functional software team and contributed to products used in real operational workflows.
 
-- 📱 React Native app development and mobile deployment
-- 🌐 Responsive web development with React and Django
-- ☁️ AWS infrastructure and cloud deployment
-- ⚙️ REST API development and backend integration
-- 🗄️ PostgreSQL and MongoDB database design
-- 🚀 CI/CD, server configuration, Docker, and production operations
-- 🏗️ Building and improving real-estate, CRM, calling, and telecaller platforms
+- 📱 Mobile development with React Native and Expo
+- 🌐 Web development with React.js, Django, and Shopify
+- ⚙️ Backend development with Python, Django REST Framework, Node.js, and Express.js
+- ☁️ Cloud and infrastructure work with AWS and DigitalOcean
+- 🗄️ Database experience with PostgreSQL, MongoDB, and MySQL
+- 🚀 Production deployment, Linux server administration, Docker, and CI/CD
 
----
+## 💼 Experience
 
-## 💼 Professional experience
-
-### Gharwale.com
-
-**Junior Software Engineer & Software Team Lead**  
+### Junior Software Engineer & Software Team Lead — Gharwale.com
 **July 2025 – Present**
 
-- Develop and maintain React.js and React Native applications.
-- Lead frontend and mobile delivery while maintaining responsive, optimized interfaces.
-- Design and integrate Python and Django REST backend services.
-- Build and maintain PostgreSQL and MongoDB data models.
-- Integrate REST APIs and third-party services.
-- Host frontend applications on AWS S3.
-- Deploy backend services and production environments.
-- Support Android Play Store and iOS App Store release processes.
-- Coordinate frontend, backend, UI/UX, and testing teams.
-- Lead reviews, testing, deployments, production fixes, and maintenance.
-- Translate product requirements into technical solutions.
+- Develop and maintain responsive web applications using React.js.
+- Develop backend services with Python, Django REST Framework, REST APIs, PostgreSQL, and background tasks.
+- Build React Native mobile applications for real-estate and tele-calling workflows.
+- Manage AWS deployments, including frontend hosting on S3 and backend production deployments.
+- Lead a cross-functional team of UI/UX designers, frontend developers, and backend developers.
+- Coordinate tasks, code reviews, releases, and delivery with product and business teams.
+- Improve application stability and performance through debugging, optimization, and refactoring.
 
-### QILO Digital Services
-
-**Junior Software Engineer Intern**  
+### Junior Software Engineer Intern — QILO Digital Services
 **January 2025 – June 2025**
 
-- Worked on web development and Shopify-based enhancements.
-- Built themes and improved Liquid-template implementations.
-- Implemented responsive UI changes and reusable components.
-- Improved user interfaces and application functionality.
-- Used Git and CI/CD workflows for development and deployment.
-- Integrated analytics and tested dynamic content.
+- Contributed to web development, Shopify app enhancements, and user-interface design.
+- Worked with Shopify Liquid templates to support dynamic theme content.
+- Used Web Pixels to track customer events for analytics.
+- Contributed to CI/CD workflows using Docker to streamline production deployments.
 
----
+### React Developer Intern — Cloud Counselage Pvt. Ltd.
+**June 2024 – January 2025**
 
-## 🚀 Featured app projects
+- Built a LinkedIn-style application with user authentication, profile creation, and real-time posts.
+- Used Firebase for database management, authentication, and cloud storage.
+- Gained experience in responsive UI design, state management, and deployment practices.
 
-### 🏡 Gharwale.com
+## 🚀 Featured projects
 
-A cross-platform real-estate application available for property buyers, owners, agents, and real-estate teams.
+### 📞 InhouseCaller — CRM Admin Panel & Telecalling Application
 
-**Platform:** React Native · JavaScript · Node.js · Express.js · MongoDB · REST APIs · AWS · JWT · AsyncStorage
+A production CRM and tele-calling platform for admins, team leaders, and telecallers.
 
-- Developed and launched on the Google Play Store
-- Implemented registration, login, logout, JWT authentication, protected routes, and persistent sessions
-- Added location-based property discovery and nearby property search
-- Improved search, filtering, amenities, listing, and map-related user experiences
-- Integrated Node.js, Express.js, REST APIs, and MongoDB for synchronized property data
-- Developed reusable APIs, hooks, validators, formatters, and business logic
-- Configured Android production builds and Play Store deployment using Expo Application Services
-- Designed the application for accessibility, scalability, and production use
+**Impact:** Used company-wide by **80+ users**, managing **300,000+ leads** and storing **400,000+ operational records**.
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-View%20app-414141?style=for-the-badge&logo=googleplay&logoColor=white)](YOUR_GHARWALE_PLAY_STORE_URL)
-[![App Store](https://img.shields.io/badge/App%20Store-View%20app-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](YOUR_GHARWALE_APP_STORE_URL)
+**Technology:** React Native · Expo · JavaScript · Python · Django REST Framework · PostgreSQL · Celery · AWS S3 · DigitalOcean · Dokku · Linux · Git · CI/CD
 
-### 📞 InhouseCaller
+- Built a centralized CRM admin panel for leads, contacts, campaigns, telecallers, teams, follow-ups, bookings, and customer interactions.
+- Developed lead workflows for importing, assigning, filtering, searching, updating, duplicate detection, exporting, and history tracking.
+- Implemented campaign-based allocation, round-robin lead rotation, direct assignment, and automated assignment rules.
+- Built mobile workflows for assigned leads, calls, feedback, follow-ups, tasks, and work activity.
+- Developed role-based access and team-management workflows for admins, team leaders, and telecallers.
+- Implemented call-history synchronization, call-status tracking, call notes, call dispositions, and lead-stage management.
+- Added location and field-activity monitoring, including location history and site-visit tracking.
+- Integrated push notifications, task alerts, assignment notifications, reminders, team queries, and messaging workflows.
+- Added WhatsApp activity monitoring and operational reporting.
+- Created and configured the **DigitalOcean Droplet server**, then deployed and maintained the backend and database environment using Dokku.
+- Configured PostgreSQL and independently managed server setup, domain configuration, environment variables, database connectivity, deployment troubleshooting, and production maintenance.
+- Integrated **Amazon S3** for uploaded media, documents, images, recordings, and other assets.
+- Implemented Git-based version control and CI/CD deployment workflows.
+- Supported a live platform for lead distribution, calling productivity, team coordination, and operational reporting.
 
-An advanced CRM and tele-calling platform for companies managing large customer and lead operations.
+### 🏡 Gharwale.com — Real-Estate Mobile Application
 
-**Platform:** React Native · React.js · Django REST Framework · PostgreSQL · Celery · Redis · AWS S3 · Docker · DigitalOcean
+A cross-platform real-estate app built for property buyers, owners, and agents.
 
-- Supports approximately 80 users and a large operational database
-- Centralized CRM admin panel for leads, contacts, campaigns, telecallers, and follow-ups
-- Lead assignment, bulk assignment, filtering, searching, status tracking, and update workflows
-- Campaign-wise lead allocation and round-robin assignment
-- Telecaller workflows for call history, call feedback, call dispositions, interest levels, and lead stages
-- Lead scheduling and rescheduling
-- Location tracking and field activity monitoring
-- Telegram bot integration for real-time lead and field notifications
-- Push notifications, task alerts, team queries, and internal messaging
-- Attendance tracking, sales targets, incentive and approver workflows
-- Campaign, team, location, telecaller, and operational reporting
-- Designed and independently deployed the backend and database on DigitalOcean
-- Used Docker and Django environment configuration for deployment
-- Configured PostgreSQL, S3 storage, and production connectivity
-- Implemented troubleshooting, maintenance, release updates, and database backup processes
-- Built a scalable platform that supports reporting and operational management
+**Technology:** React Native · Expo · JavaScript · AsyncStorage · JWT · Node.js · Express.js · MongoDB · REST APIs
 
-### ☁️ React Cloud Counselor — DigitalOcean
+- Developed and launched the mobile application on Google Play.
+- Implemented registration, login, logout, JWT authentication, protected routes, and persistent sessions.
+- Added location suggestions and nearby property discovery.
+- Developed property-detail screens with images, pricing, area, amenities, configurations, landmarks, and contact options.
+- Integrated Node.js, Express.js, REST APIs, and MongoDB for synchronized property data.
+- Built reusable APIs, hooks, validators, formatters, and business logic for web and mobile applications.
+- Configured Android production builds and Play Store deployment using Expo Application Services.
 
-A cloud counselor platform that combines LinkedIn-style social features with cloud infrastructure deployments.
-
-- Developed a LinkedIn-like application with authentication and profile creation
-- Implemented authentication, profile management, posts, real-time interactions, and sharing
-- Developed Firebase database management and cloud storage features
-- Independently deployed the application on a DigitalOcean Droplet
-- Configured Django backend, PostgreSQL, Dokku, Docker, and Ubuntu server environments
-- Managed domains, environment variables, databases, storage, and deployment workflows
-- Used Git, CI/CD, and production deployment practices
-- Configured Docker containers and server operations
+**App listings:** [Google Play](YOUR_GHARWALE_PLAY_STORE_URL) · [Apple App Store](YOUR_GHARWALE_APP_STORE_URL)
 
 ### 🔗 [LinkedIn Clone](https://github.com/ShaniMishra9695/LinkdIn-clone)
 
-A social networking application built with React.js and Firebase.
+A social networking application developed during my React Developer internship at Cloud Counselage.
 
-- Implemented authentication and profile creation
-- Added user authentication, posts, realtime updates, cloud storage, and database management
-- Gained hands-on experience with Firebase authentication and cloud infrastructure
+**Technology:** React.js · Firebase
 
----
-
-## 🌐 Web development projects
+- Implemented user authentication and profile creation.
+- Built real-time posting features.
+- Used Firebase for database management, authentication, and cloud storage.
 
 ### 🌱 [Petari — Food Donation Management System](https://github.com/ShaniMishra9695/Petari)
 
-A web application focused on redistributing surplus food and supporting hunger-free initiatives.
+A food donation and redistribution web application focused on helping redirect surplus food to people in need.
 
-**Tech:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express · MongoDB · EJS · OAuth 2.0
+**Technology documented in the project:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express · MongoDB · EJS · OAuth 2.0
 
-- Designed a platform for managing food-donation and redistribution workflows
-- Built interfaces for users and administrators
-- Documented setup, contribution, code review, testing, and community processes
-- Participated through GirlScript Summer of Code 2024
+- Focuses on food redistribution and reducing food waste.
+- Includes user and administrator workflows.
+- The repository documents participation in GirlScript Summer of Code 2024.
 
-### 🚜 [0xAgriChain](https://github.com/ShaniMishra9695/Building-Trust-and-Transparency-in-the-Agri-Value-Chain)
+### 🚜 [0xAgriChain — Agricultural Supply Chain Transparency](https://github.com/ShaniMishra9695/Building-Trust-and-Transparency-in-the-Agri-Value-Chain)
 
-A blockchain project exploring transparency and traceability in agricultural supply chains.
+A blockchain-based project exploring transparency and traceability in agricultural supply chains.
 
-- Proposed shared-ledger transaction tracking
-- Explored smart-contract use cases
-- Studied origin tracing, fair pricing, and produce tracking
-- Documented BlockApps STRATO architecture and deployment
-
-[![Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/VWS_scOZbD4)
+- Explores shared-ledger transaction records and produce traceability.
+- Documents smart-contract and BlockApps STRATO architecture concepts.
+- [Watch the project demo](https://youtu.be/VWS_scOZbD4)
 
 ### 🏥 [Healthcare Dashboard](https://github.com/ShaniMishra9695/healthcare-dashboard)
 
-A React-based healthcare dashboard project.
+A React-based dashboard project in the healthcare domain.
 
 ### ☁️ [AWS Video App](https://github.com/ShaniMishra9695/AWS_Video_App)
 
-A video application project exploring cloud infrastructure and application deployment.
+A video application project. See the repository for implementation details.
 
----
+## 🛠️ Skills
 
-## 🛠️ Skills & technologies
+**Languages:** Python · JavaScript · Java · HTML · CSS
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend & mobile:** React.js · React Native · Expo · Bootstrap
 
-### Web & app development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Backend:** Django · Django REST Framework · Node.js · Express.js
 
-### Databases & cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222)
+**Databases:** PostgreSQL · MongoDB · MySQL · Firebase
 
-### DevOps & tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+**Cloud & infrastructure:** AWS · Amazon S3 · DigitalOcean · Dokku · Linux
 
----
+**DevOps & delivery:** Docker · Git · CI/CD · Production deployment · Server configuration
+
+**APIs & integrations:** REST APIs · JWT · Twilio · Firebase Cloud Messaging · WhatsApp workflows
 
 ## 🎓 Education
 
-**Viva Institute of Technology, Mumbai**  
-Master of Computer Applications · CGPA: 8.74 · August 2023 – July 2025
+**Master of Computer Applications**  
+VIVA Institute of Technology, Mumbai · CGPA: 8.74  
+August 2023 – July 2025
 
-**Veer Bahadur Singh Purvanchal University, Jaunpur**  
-Bachelor of Commerce – Finance & Accounting · CGPA: 6.99
-
----
+**Bachelor of Commerce — Finance and Accounting**  
+Veer Bahadur Singh Purvanchal University, Jaunpur · CGPA: 6.99
 
 ## 🏆 Certifications & achievements
 
-- Google Professional Cloud Architect
-- AWS Lambda Foundation
-- AWS Lambda Foundation – Simplilearn SkillUp
-- Web Design and Development
-- Soft Skill & Personality Development
-- Published research: Mobile Technology
-- Volunteer: Delhi Salesforce Developer Group
+- Google Professional Cloud Architect — Infosys / Springboard
+- AWS Lambda Foundation — Simplilearn SkillUp
+- Web Design and Development Training — Infosys / Springboard
+- Soft Skill & Personality Development — NPTEL
+- Published research paper: *Diverging Paths in Mobile Technology* — NCRENB 2025
+- Volunteer, Delhi Salesforce Developer Group
 
----
-
-## 📊 GitHub activity
+## 📌 Selected impact
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShaniMishra9695&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniMishra9695&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+| 80+ | 300,000+ | 400,000+ |
+|:---:|:---:|:---:|
+| InhouseCaller users | Leads managed | Operational records |
 
 </div>
 
@@ -236,8 +178,6 @@ Bachelor of Commerce – Finance & Accounting · CGPA: 6.99
 
 <div align="center">
 
-**Building complete products across mobile, web, backend, and cloud.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:111827&height=100&section=footer" width="100%" alt="" />
+**Building and deploying software across mobile, web, backend, and cloud.**
 
 </div>
