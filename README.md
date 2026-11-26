@@ -125,14 +125,6 @@ At cloud counselage created LinkedIn clone that combines LinkedIn-style social f
 - Developed Firebase database management and cloud storage features
 - Managed domains, environment variables, databases, storage, and deployment workflows
 - Used Git, CI/CD, and production deployment practices
-- 
-### 🔗 [LinkedIn Clone](https://github.com/ShaniMishra9695/LinkdIn-clone)
-
-A social networking application built with React.js and Firebase.
-
-- Implemented authentication and profile creation
-- Added user authentication, posts, realtime updates, cloud storage, and database management
-- Gained hands-on experience with Firebase authentication and cloud infrastructure
 
 ---
 
