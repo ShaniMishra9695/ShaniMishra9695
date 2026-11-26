@@ -91,7 +91,7 @@ A cross-platform real-estate application available for property buyers, owners, 
 - Configured Android production builds and Play Store deployment using Expo Application Services
 - Designed the application for accessibility, scalability, and production use
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-View%20app-414141?style=for-the-badge&logo=googleplay&logoColor=white)](YOUR_GHARWALE_PLAY_STORE_URL)
+[![Google Play](https://img.shields.io/badge/Google%20Play-View%20app-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gharwale.mobile)
 [![App Store](https://img.shields.io/badge/App%20Store-View%20app-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](YOUR_GHARWALE_APP_STORE_URL)
 
 ### 📞 InhouseCaller
