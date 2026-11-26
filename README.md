@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:7c3aed&height=190&section=header&text=Shani%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%7C%20Cloud%20%7C%20Social%20Impact&descAlignY=60&descSize=16" width="100%" alt="Shani Mishra profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:7c3aed&height=190&section=header&text=Shani%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20%7C%20Cloud%20%7C%20Social%20Impact&descAlignY=60&descSize=16" width="100%" alt="Shani Mishra profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+practical+digital+experiences;Interested+in+web+development+and+cloud;Learning+by+building+projects+with+purpose" alt="Animated introduction" />
 
