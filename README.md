@@ -66,67 +66,167 @@ My experience spans React, React Native, Python, Django, REST APIs, PostgreSQL, 
 
 ---
 
-### 🌱 [Petari — Food Donation Management System](https://github.com/ShaniMishra9695/Petari)
+## 🚀 Featured app projects
 
-A web application concept focused on connecting surplus food with people who need it. The project aims to support food redistribution and reduce waste.
+### 🏡 Gharwale.com
 
-- **Problem space:** Food waste and food insecurity
-- **Project focus:** Food donation and redistribution
-- **Built with:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MongoDB, and EJS
-- **Also documented:** OAuth 2.0
-- **Project background:** The repository README notes participation in GirlScript Summer of Code 2024.
+A cross-platform real-estate application available for property buyers, owners, agents, and real-estate teams.
 
-### 🚜 [0xAgriChain — Agricultural Supply Chain Transparency](https://github.com/ShaniMishra9695/Building-Trust-and-Transparency-in-the-Agri-Value-Chain)
+**Platform:** React Native · JavaScript · Node.js · Express.js · MongoDB · REST APIs · AWS · JWT · AsyncStorage
 
-A blockchain-based project exploring how a shared ledger can make agricultural supply-chain records more transparent and produce journeys easier to trace.
+- Developed and launched on the Google Play Store
+- Implemented registration, login, logout, JWT authentication, protected routes, and persistent sessions
+- Added location-based property discovery and nearby property search
+- Improved search, filtering, amenities, listing, and map-related user experiences
+- Integrated Node.js, Express.js, REST APIs, and MongoDB for synchronized property data
+- Developed reusable APIs, hooks, validators, formatters, and business logic
+- Configured Android production builds and Play Store deployment using Expo Application Services
+- Designed the application for accessibility, scalability, and production use
 
-- **Problem space:** Limited transparency and traceability in agricultural supply chains
-- **Project focus:** Recording transactions and produce journeys on a shared ledger
-- **Technology documented:** BlockApps STRATO and smart contracts
-- **Demo:** [Watch the project demo](https://youtu.be/VWS_scOZbD4)
+[![Google Play](https://img.shields.io/badge/Google%20Play-View%20app-414141?style=for-the-badge&logo=googleplay&logoColor=white)](YOUR_GHARWALE_PLAY_STORE_URL)
+[![App Store](https://img.shields.io/badge/App%20Store-View%20app-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](YOUR_GHARWALE_APP_STORE_URL)
 
-### 🏥 [Healthcare Dashboard](https://github.com/ShaniMishra9695/healthcare-dashboard)
+### 📞 InhouseCaller
 
-A React-based dashboard project in the healthcare space.
+An advanced CRM and tele-calling platform for companies managing large customer and lead operations.
 
-- **Project focus:** Presenting healthcare-related information through a web interface
-- **Built with:** React
-- **Next step:** See the repository for the current implementation and setup instructions.
+**Platform:** React Native · React.js · Django REST Framework · PostgreSQL · Celery · Redis · AWS S3 · Docker · DigitalOcean
 
-### ☁️ [AWS Video App](https://github.com/ShaniMishra9695/AWS_Video_App)
+- Supports approximately 80 users and a large operational database
+- Centralized CRM admin panel for leads, contacts, campaigns, telecallers, and follow-ups
+- Lead assignment, bulk assignment, filtering, searching, status tracking, and update workflows
+- Campaign-wise lead allocation and round-robin assignment
+- Telecaller workflows for call history, call feedback, call dispositions, interest levels, and lead stages
+- Lead scheduling and rescheduling
+- Location tracking and field activity monitoring
+- Telegram bot integration for real-time lead and field notifications
+- Push notifications, task alerts, team queries, and internal messaging
+- Attendance tracking, sales targets, incentive and approver workflows
+- Campaign, team, location, telecaller, and operational reporting
+- Designed and independently deployed the backend and database on DigitalOcean
+- Used Docker and Django environment configuration for deployment
+- Configured PostgreSQL, S3 storage, and production connectivity
+- Implemented troubleshooting, maintenance, release updates, and database backup processes
+- Built a scalable platform that supports reporting and operational management
 
-A video application project. Visit the repository for its implementation.
+### ☁️ React Cloud Counselor — DigitalOcean
 
-- **Project focus:** Video application development
-- **Next step:** I’m improving the project documentation with its architecture, AWS services, features, and a demo.
+A cloud counselor platform that combines LinkedIn-style social features with cloud infrastructure deployments.
+
+- Developed a LinkedIn-like application with authentication and profile creation
+- Implemented authentication, profile management, posts, real-time interactions, and sharing
+- Developed Firebase database management and cloud storage features
+- Independently deployed the application on a DigitalOcean Droplet
+- Configured Django backend, PostgreSQL, Dokku, Docker, and Ubuntu server environments
+- Managed domains, environment variables, databases, storage, and deployment workflows
+- Used Git, CI/CD, and production deployment practices
+- Configured Docker containers and server operations
+
+### 🔗 [LinkedIn Clone](https://github.com/ShaniMishra9695/LinkdIn-clone)
+
+A social networking application built with React.js and Firebase.
+
+- Implemented authentication and profile creation
+- Added user authentication, posts, realtime updates, cloud storage, and database management
+- Gained hands-on experience with Firebase authentication and cloud infrastructure
 
 ---
 
-## Skills & technologies
+## 🌐 Web development projects
 
-These are technologies represented in my projects and learning:
+### 🌱 [Petari — Food Donation Management System](https://github.com/ShaniMishra9695/Petari)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Blockchain-5B4BDB?style=flat-square" alt="Blockchain" />
-</p>
+A web application focused on redistributing surplus food and supporting hunger-free initiatives.
 
-## How I approach projects
+**Tech:** HTML · CSS · JavaScript · Bootstrap · Node.js · Express · MongoDB · EJS · OAuth 2.0
 
-- **Start with the problem:** Understand who the project is for and what it should help them do.
-- **Build for usability:** Aim for interfaces and workflows that are straightforward to understand.
-- **Learn by doing:** Explore technologies through practical projects and iteration.
-- **Keep improving:** Treat documentation, feedback, and maintainability as part of the work.
+- Designed a platform for managing food-donation and redistribution workflows
+- Built interfaces for users and administrators
+- Documented setup, contribution, code review, testing, and community processes
+- Participated through GirlScript Summer of Code 2024
 
-## GitHub activity
+### 🚜 [0xAgriChain](https://github.com/ShaniMishra9695/Building-Trust-and-Transparency-in-the-Agri-Value-Chain)
+
+A blockchain project exploring transparency and traceability in agricultural supply chains.
+
+- Proposed shared-ledger transaction tracking
+- Explored smart-contract use cases
+- Studied origin tracing, fair pricing, and produce tracking
+- Documented BlockApps STRATO architecture and deployment
+
+[![Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/VWS_scOZbD4)
+
+### 🏥 [Healthcare Dashboard](https://github.com/ShaniMishra9695/healthcare-dashboard)
+
+A React-based healthcare dashboard project.
+
+### ☁️ [AWS Video App](https://github.com/ShaniMishra9695/AWS_Video_App)
+
+A video application project exploring cloud infrastructure and application deployment.
+
+---
+
+## 🛠️ Skills & technologies
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Web & app development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222)
+
+### DevOps & tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**Viva Institute of Technology, Mumbai**  
+Master of Computer Applications · CGPA: 8.74 · August 2023 – July 2025
+
+**Veer Bahadur Singh Purvanchal University, Jaunpur**  
+Bachelor of Commerce – Finance & Accounting · CGPA: 6.99
+
+---
+
+## 🏆 Certifications & achievements
+
+- Google Professional Cloud Architect
+- AWS Lambda Foundation
+- AWS Lambda Foundation – Simplilearn SkillUp
+- Web Design and Development
+- Soft Skill & Personality Development
+- Published research: Mobile Technology
+- Volunteer: Delhi Salesforce Developer Group
+
+---
+
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -139,8 +239,7 @@ These are technologies represented in my projects and learning:
 
 <div align="center">
 
-**Thanks for visiting.**  
-Feel free to explore my repositories or connect with me on GitHub.
+**Building complete products across mobile, web, backend, and cloud.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:111827&height=100&section=footer" width="100%" alt="" />
 
